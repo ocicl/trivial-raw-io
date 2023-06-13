@@ -1,0 +1,10 @@
+* trivial-raw-io
+
+Trivial portability for raw *nix IO in Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/redline6561/trivial-raw-io.git   |
+| commit  | b1a3c87  |
+| systems | trivial-raw-io |
+|---------+-------------------------------------------|
+
